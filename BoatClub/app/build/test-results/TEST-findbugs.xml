@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.spotbugs" time="0" tests="8" errors="0" name="findbugs">
+<testcase time="0" name="assignment4/Canoe.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Sailboat.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Application.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Motorsailer.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/ConsoleUI.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Member.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Motorboat.java" classname="FindBugs Issues">
+</testcase><testcase time="0" name="assignment4/Boat.java" classname="FindBugs Issues">
+</testcase></testsuite>

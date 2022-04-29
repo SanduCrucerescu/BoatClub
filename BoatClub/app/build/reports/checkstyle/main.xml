@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Application.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Boat.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Canoe.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/ConsoleUI.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Member.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Motorboat.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Motorsailer.java">
+</file>
+<file name="/Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Sailboat.java">
+</file>
+</checkstyle>

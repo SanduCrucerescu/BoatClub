@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-25T19:53:36" hostname="MacBook-Pro.local" time="0.094">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.094"/>
+  <system-out><![CDATA[0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Application.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Boat.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Canoe.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/ConsoleUI.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Member.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Motorboat.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Motorsailer.java
+0 CheckStyle Issues in /Users/alex/Java_Projects/assignment-4/app/src/main/java/assignment4/Sailboat.java
+0 FindBugs Issues in assignment4/Canoe.java
+0 FindBugs Issues in assignment4/Sailboat.java
+0 FindBugs Issues in assignment4/Application.java
+0 FindBugs Issues in assignment4/Motorsailer.java
+0 FindBugs Issues in assignment4/ConsoleUI.java
+0 FindBugs Issues in assignment4/Member.java
+0 FindBugs Issues in assignment4/Motorboat.java
+0 FindBugs Issues in assignment4/Boat.java
+]]></system-out>
+  <system-err><![CDATA[Findbugs xml file not found: ./build/reports/spotbugs/spotbugs.xml
+Consider making code change to initiate regeneration of the xml (will try backup)
+Restored xml from backup: ./build/reports/spotbugs/spotbugs_bak.xml
+]]></system-err>
+</testsuite>

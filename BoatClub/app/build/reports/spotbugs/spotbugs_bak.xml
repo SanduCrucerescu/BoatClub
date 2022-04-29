@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.5.3" sequence="0" timestamp="1648237854179" analysisTimestamp="1648237854239" release="unspecified">
+  <Project projectName="app (spotbugsMain)">
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/ConsoleUI.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Motorsailer.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Motorboat.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Member.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Canoe.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Boat.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Sailboat.class</Jar>
+    <Jar>/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Application.class</Jar>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/net.jcip/jcip-annotations/1.0/afba4942caaeaf46aab0b976afd57cc7c181467e/jcip-annotations-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.github.spotbugs/spotbugs-annotations/3.1.3/c19e39b6227963e05760d4f93b9b0785743f9439/spotbugs-annotations-3.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1.1-jre/87e0fd1df874ea3cbe577702fe6f17068b790fd8/guava-30.1.1-jre.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.8.0/6b83e4a33220272c3a08991498ba9dc09519f190/checker-qual-3.8.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.5.1/562d366678b89ce5d6b6b82c1a073880341e3fba/error_prone_annotations-2.5.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/alex/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar</AuxClasspathEntry>
+    <SrcDir>/Users/alex/Java_Projects/assignment-4/app/src/main/resources</SrcDir>
+    <SrcDir>/Users/alex/Java_Projects/assignment-4/app/src/main/java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 25 Mar 2022 20:50:54 +0100" total_classes="8" referenced_classes="54" total_bugs="0" total_size="457" num_packages="1" java_version="17.0.1" vm_version="17.0.1+12-39" cpu_seconds="7.94" clock_seconds="3.16" peak_mbytes="140.91" alloc_mbytes="2048.00" gc_seconds="0.07">
+    <FileStats path="assignment4/Application.java" bugCount="0" size="220"/>
+    <FileStats path="assignment4/Boat.java" bugCount="0" size="18"/>
+    <FileStats path="assignment4/Canoe.java" bugCount="0" size="10"/>
+    <FileStats path="assignment4/ConsoleUI.java" bugCount="0" size="131"/>
+    <FileStats path="assignment4/Member.java" bugCount="0" size="30"/>
+    <FileStats path="assignment4/Motorboat.java" bugCount="0" size="14"/>
+    <FileStats path="assignment4/Motorsailer.java" bugCount="0" size="20"/>
+    <FileStats path="assignment4/Sailboat.java" bugCount="0" size="14"/>
+    <PackageStats package="assignment4" total_bugs="0" total_types="8" total_size="457">
+      <ClassStats class="assignment4.Application" sourceFile="Application.java" interface="false" size="220" bugs="0"/>
+      <ClassStats class="assignment4.Boat" sourceFile="Boat.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="assignment4.Canoe" sourceFile="Canoe.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="assignment4.ConsoleUI" sourceFile="ConsoleUI.java" interface="false" size="131" bugs="0"/>
+      <ClassStats class="assignment4.Member" sourceFile="Member.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="assignment4.Motorboat" sourceFile="Motorboat.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="assignment4.Motorsailer" sourceFile="Motorsailer.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="assignment4.Sailboat" sourceFile="Sailboat.java" interface="false" size="14" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="627" invocations="596" avgMicrosecondsPerInvocation="1052" maxMicrosecondsPerInvocation="36035" standardDeviationMicrosecondsPerInvocation="2718"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="139" invocations="54" avgMicrosecondsPerInvocation="2582" maxMicrosecondsPerInvocation="22424" standardDeviationMicrosecondsPerInvocation="4729"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="133" invocations="600" avgMicrosecondsPerInvocation="222" maxMicrosecondsPerInvocation="4679" standardDeviationMicrosecondsPerInvocation="385"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="118" invocations="78" avgMicrosecondsPerInvocation="1518" maxMicrosecondsPerInvocation="14391" standardDeviationMicrosecondsPerInvocation="2237"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="111" invocations="54" avgMicrosecondsPerInvocation="2070" maxMicrosecondsPerInvocation="24028" standardDeviationMicrosecondsPerInvocation="4134"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="91" invocations="224" avgMicrosecondsPerInvocation="406" maxMicrosecondsPerInvocation="5072" standardDeviationMicrosecondsPerInvocation="656"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="81" invocations="60" avgMicrosecondsPerInvocation="1359" maxMicrosecondsPerInvocation="48234" standardDeviationMicrosecondsPerInvocation="6160"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="68" invocations="559" avgMicrosecondsPerInvocation="123" maxMicrosecondsPerInvocation="7437" standardDeviationMicrosecondsPerInvocation="386"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="65" invocations="66" avgMicrosecondsPerInvocation="993" maxMicrosecondsPerInvocation="18197" standardDeviationMicrosecondsPerInvocation="2558"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="64" invocations="54" avgMicrosecondsPerInvocation="1188" maxMicrosecondsPerInvocation="16865" standardDeviationMicrosecondsPerInvocation="2835"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="56" invocations="65" avgMicrosecondsPerInvocation="874" maxMicrosecondsPerInvocation="10951" standardDeviationMicrosecondsPerInvocation="1851"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="55" invocations="60" avgMicrosecondsPerInvocation="920" maxMicrosecondsPerInvocation="17958" standardDeviationMicrosecondsPerInvocation="2406"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="50" invocations="62" avgMicrosecondsPerInvocation="819" maxMicrosecondsPerInvocation="40662" standardDeviationMicrosecondsPerInvocation="5107"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="50" invocations="89" avgMicrosecondsPerInvocation="567" maxMicrosecondsPerInvocation="17007" standardDeviationMicrosecondsPerInvocation="1896"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="46" invocations="60" avgMicrosecondsPerInvocation="770" maxMicrosecondsPerInvocation="18015" standardDeviationMicrosecondsPerInvocation="2320"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="41" invocations="54" avgMicrosecondsPerInvocation="772" maxMicrosecondsPerInvocation="27587" standardDeviationMicrosecondsPerInvocation="3723"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="39" invocations="54" avgMicrosecondsPerInvocation="723" maxMicrosecondsPerInvocation="8112" standardDeviationMicrosecondsPerInvocation="1459"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="36" invocations="60" avgMicrosecondsPerInvocation="609" maxMicrosecondsPerInvocation="9256" standardDeviationMicrosecondsPerInvocation="1350"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="32" invocations="54" avgMicrosecondsPerInvocation="603" maxMicrosecondsPerInvocation="3932" standardDeviationMicrosecondsPerInvocation="865"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="30" invocations="54" avgMicrosecondsPerInvocation="564" maxMicrosecondsPerInvocation="13786" standardDeviationMicrosecondsPerInvocation="1891"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

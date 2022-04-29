@@ -1,0 +1,8 @@
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/ConsoleUI.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Motorsailer.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Motorboat.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Member.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Boat.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Sailboat.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/App.class
+/Users/alex/Java_Projects/assignment-4/app/build/classes/java/main/assignment4/Application.class
